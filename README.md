@@ -1,3 +1,3 @@
-# Phishing scanner 
+# Tasks 
 
-Project done using python,(ui is done using sreamlit library )
+Projects done using python,(ui is done using sreamlit library )
